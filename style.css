@@ -1,3 +1,7 @@
 p[lang |="pt"]{
   color: green;
 }
+
+div[class ~= "ativo"]{
+  color:lightblue;
+}
