@@ -18,7 +18,7 @@ a[href^="https"]{
   color: green;
 }
 
-a[href$=".pdf"]{
+a[href$="pdf"]{
   color: pink;
 }
 
