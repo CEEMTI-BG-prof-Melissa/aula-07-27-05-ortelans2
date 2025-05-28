@@ -6,22 +6,22 @@ div[class ~= "ativo"]{
   color: lightblue;
 }
 
-input [required]{
+input[required]{
   border: 2px solid red;
 }
 
-input [type~=password"]{
+input[type^="password"]{
   background-color: lightgray;
 }
 
-a [href^="https"]{
+a[href^="https"]{
   color: green;
 }
 
-a [href$=".pdf"]{
+a[href$=".pdf"]{
   color: pink;
 }
 
-a [value="exemplo"]{
+a[href*="exemplo"]{
   font-weight: bold;
 }
