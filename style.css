@@ -1,27 +1,27 @@
-p[lang |="pt"]{ /* Número 7/*
+p[lang |="pt"]{ /* Número 7 */
   color: green;
 }
 
-div[class ^= "ativo"]{ /* Número 6 /*
+div[class ^= "ativo"]{ /* Número 6 */
   color: lightblue;
 }
 
-input[required]{ /* Número 1 /*
+input[required]{ /* Número 1 */
   border: 2px solid red;
 }
 
-input[type="password"]{ /* Número 2 /*
+input[type="password"]{ /* Número 2 */
   background-color: lightgray;
 }
 
-a[href^="https"]{ /* Número 3 /*
+a[href^="https"]{ /* Número 3 */
   color: green;
 }
 
-a[href$=".pdf"]{ /* Número 4 /*
+a[href$=".pdf"]{ /* Número 4 */
   color: pink;
 }
 
-a[href*="exemplo"]{ /* Número 5 /*
+a[href*="exemplo"]{ /* Número 5 */
   font-weight: bold;
 }
