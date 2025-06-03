@@ -2,8 +2,8 @@ p[lang |="pt"]{ /* Número 7 */
   color: green;
 }
 
-div [class ^= "ativo"]{ /* Número 6 */
-  color: lightblue;
+div [class ~= "ativo"]{ /* Número 6 */
+  background-color: lightblue;
 }
 
 input[required]{ /* Número 1 */
